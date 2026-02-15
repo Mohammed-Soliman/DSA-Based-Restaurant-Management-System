@@ -18,7 +18,7 @@ The system models a restaurant workflow using queues, priority queues, and stack
 
 ---
 
-## 📂 Input File Management
+## 📂 Input/Output File Management
 
 The system reads all simulation data from an input file that contains:
 
