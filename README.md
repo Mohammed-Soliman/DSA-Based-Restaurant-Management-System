@@ -1,5 +1,4 @@
 # DSA-Based-Restaurant-Management-System
-# Restaurant Management System
 
 This project implements a Restaurant Management System using specific data structures and algothim analysis techniques. The system simulates order handling, chef assignment, cooking, delivery, and break management.
 
@@ -15,8 +14,8 @@ The system models a restaurant workflow using queues, priority queues, and stack
 
 - Handling Orders based on priority  
 - Calculating average wait time for the system  
-- Output file result containing the statistics of the simulation  
-- Interactive and Silent Simulations are alowed  
+-  
+- Interactive and Silent Simulations  
 
 ---
 
@@ -30,7 +29,7 @@ The system reads all simulation data from an input file that contains:
 - Events such as cancellations and promotions  
 
 Events are processed in chronological order to simulate real-time restaurant operation.  
-The output file at the end of the simulation.
+The output file is given at the end of the simulation containing the statistics of the simulation.  
 
 ---
 
