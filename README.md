@@ -14,7 +14,6 @@ The system models a restaurant workflow using queues, priority queues, and stack
 
 - Handling Orders based on priority  
 - Calculating average wait time for the system  
--  
 - Interactive and Silent Simulations  
 
 ---
