@@ -78,6 +78,17 @@ Chef assignment follows availability rules to ensure efficient order handling.
 
 ---
 
+## 👨‍💻 Author(s)
+- Mohammed Soliman  
+- Abdelrahman Mohsen  
+- Mahmoud Tamer  
+
+---
+
+## 📚 References
+Mark Allen Weiss, **Data Structures and Algorithm Analysis in C++**, 4th Edition, Pearson Education, 2014.
+
+---
 
 ## 📌 Key Takeaway
 
