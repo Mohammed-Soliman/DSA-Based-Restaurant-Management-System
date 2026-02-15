@@ -1,0 +1,5 @@
+FT	ID	RT	WT	ST
+=============================================
+Orders: 0 [ Norm:0, VIP: 0, Vegan: 0 ]
+Chefs: 0 [ Norm:0, VIP: 0, Vegan: 0 ]
+Avg Wait = 0, Avg Srv = 0, Auto Promoted = 0%

@@ -1,0 +1,44 @@
+﻿  ArrivalEvent.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'ArrivalEvent.cpp')
+  
+  CancelEvent.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'CancelEvent.cpp')
+  
+  Chef.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Chef.cpp')
+  
+  Event.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Event.cpp')
+  
+  Order.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Order.cpp')
+  
+  project data.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'project%20data.cpp')
+  
+  PromoteEvent.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'PromoteEvent.cpp')
+  
+  Restaurant.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Restaurant.cpp')
+  
+D:\New folder\project-data\project-data\project data\Restaurant.cpp(151,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\New folder\project-data\project-data\project data\Restaurant.cpp(166,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\New folder\project-data\project-data\project data\Restaurant.cpp(269,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\New folder\project-data\project-data\project data\Restaurant.cpp(460,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TimeManager.cpp
+  UI.cpp
+D:\New folder\project-data\project-data\project data\InService_orders_queue.h(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'UI.cpp')
+  
+  Generating Code...
+D:\New folder\project-data\project-data\project data\Normal_orders_queue.h(61,1): warning C4715: 'Normal_orders_queue::check_promotion': not all control paths return a value
+  project data.vcxproj -> D:\New folder\project-data\project-data\x64\Debug\project data.exe
