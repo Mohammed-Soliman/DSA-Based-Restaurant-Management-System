@@ -86,8 +86,8 @@ Chef assignment follows availability rules to ensure efficient order handling.
 ---
 
 ## 📚 References
-Mark Allen Weiss, **Data Structures and Algorithm Analysis in C++**, 4th Edition, Pearson Education, 2014.
-
+- Mark Allen Weiss, **Data Structures and Algorithm Analysis in C++**, 4th Edition, Pearson Education, 2014.  
+- CIE 205 Lab Materials.
 ---
 
 ## 📌 Key Takeaway
